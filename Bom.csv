@@ -1,5 +1,4 @@
 Category,Item,Specification/Model,Quantity,Approx. Cost (USD),Notes
-3D-printed airframe,Complete STORK printed airframe,STORK manual STL set; print in the specified orientations,1 set,0,"Manual files; printing material is costed separately. Includes fuselage, wings, V-tail, nose, covers and small printed parts."
 Printing material,Lightweight filament,LW-PLA or LW-ASA,1 roll,35,"Rounded planning estimate; primary airframe material specified by the manual."
 Printing material,Rigid filament,PC or PETG,Small amount,15,"Rounded planning estimate for rigid/reinforced printed parts."
 Carbon reinforcement,Main spar carbon tube,10 mm x 1000 mm,1,12,"Approximate cost for this required length."
